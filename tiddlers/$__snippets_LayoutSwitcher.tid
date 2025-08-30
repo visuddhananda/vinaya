@@ -1,6 +1,0 @@
-caption: {{$:/language/ControlPanel/LayoutSwitcher/Caption}}
-tags: $:/tags/ControlPanel/Appearance
-title: $:/snippets/LayoutSwitcher
-type: text/vnd.tiddlywiki
-
-<<simple-layout-launcher>>
