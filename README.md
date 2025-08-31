@@ -240,8 +240,8 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 레몬 기름을 보시받았다. 식용으로 허용되는가?
 		- 누군가는 레몬을 야와지와까 평생약으로 보지만 누구는 다른 의견. 주스 혹은 야와까리까 1일 사용으로 봄. #우꾸마라
 		- 배경: According to commentary if one keep plant oil which is not included in vibhanga, dukkatta. is lemon oil allowable?
-		  		  무엇을 위해서? (먹는 거라던가) 누군가는 레몬을 야와지와까 평생약으로 보지만 누구는 다른 의견. 주스 혹은 야와까리까 1일 사용으로 봄.
-		  		  @그래서 레몬 오일은 허용되나 >> 잎이나 나무서 만들어진 거면 됨.  과일에선 안됨. 누군가는 평생약으로 보고 누구는 주스로 본다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;무엇을 위해서? (먹는 거라던가) 누군가는 레몬을 야와지와까 평생약으로 보지만 누구는 다른 의견. 주스 혹은 야와까리까 1일 사용으로 봄.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@그래서 레몬 오일은 허용되나 >> 잎이나 나무서 만들어진 거면 됨.  과일에선 안됨. 누군가는 평생약으로 보고 누구는 주스로 본다.
 ### 발우에 쓰레기를 넣어서는 안된다. 발우 뚜껑에 올려야 한다.  (매번 과자봉지랑 요쿠르트 쓰레기를 발우에 넣어서 한번에 버렸는데 발우에 쓰레기를 넣어서는 안된다고 함.) #미얀마빅쿠
 		- 추가질문: 그런데 다 먹은 과자봉지가 아니고 새 과자봉지도 발우에 넣으면 안되나요? 아니면 관계없나요?
 			- 음식이 들어있으면 넣을 수 있음. #담마다야다
@@ -274,12 +274,12 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 보시자 음식을 낭비하면 둑까따라는데 승원 안에서 음식을 버린다면 범계인가?
 		- 승원 안에서는 문제없다. 하지만 마을에서 음식을 던지면 아빳띠다. #찬다수마나
 		- 배경: I heard that If we waste alms food then dukkata, is it right?
-		  		  승원 안에서는 문제없다. 하지만 마을에서 음식을 던지면 아빳띠다. 작은 물에 던져도 나무에 던져도 안됨. 물에 매운 걸 던지면 작은 생명체 죽을 수 있고 나무도 죽을 수 있으므로. 사람들이 음식 버리는 곳이면 그곳에 버려야.
-		  	  If some bhikkhu receive too much food. He know he can not eat all. And he left alms food. Then is it appatti?
-		  		  범계가 아니다. 하지만 그런 사람은 보지니마땃뉴따가 필요하다. 붓다는 그것을 가지고 계시고(음식의 적정양을 아는 능력을 뜻하는 듯) 높은 수준의 증득을 한 사람들도 갖고 있다.
-		  		  하지만 아파서 못 먹을 수도 있고 여기 보시자들을 고려해서 받을 수도 있으므로 범계는 아니다.
-		  			  음식 남았다면 다른 생명체에게 보시하려는 의도로 버리라는 붓다의 말씀. 마을에서는 세키야 56번 참조.
-		  			  받을 때 먹을 만큼만 받는 것이 중요.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;승원 안에서는 문제없다. 하지만 마을에서 음식을 던지면 아빳띠다. 작은 물에 던져도 나무에 던져도 안됨. 물에 매운 걸 던지면 작은 생명체 죽을 수 있고 나무도 죽을 수 있으므로. 사람들이 음식 버리는 곳이면 그곳에 버려야.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If some bhikkhu receive too much food. He know he can not eat all. And he left alms food. Then is it appatti?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;범계가 아니다. 하지만 그런 사람은 보지니마땃뉴따가 필요하다. 붓다는 그것을 가지고 계시고(음식의 적정양을 아는 능력을 뜻하는 듯) 높은 수준의 증득을 한 사람들도 갖고 있다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;하지만 아파서 못 먹을 수도 있고 여기 보시자들을 고려해서 받을 수도 있으므로 범계는 아니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;음식 남았다면 다른 생명체에게 보시하려는 의도로 버리라는 붓다의 말씀. 마을에서는 세키야 56번 참조.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;받을 때 먹을 만큼만 받는 것이 중요.
 ### 꿀이 빤수꿀라에 놓여 있을 때 취할 수 있는가?
 		- 빅쿠가 꿀을 (빤수꿀라) 테이블이나 빅쿠 공공장소에 두는 것 자체가 적절치 않다. 깝삐야가 그 꿀을 받아서 그 테이블에 놓을 수도 있다. 하지만 그걸 취하려면 남은 날을 알아야 한다. 남은 날을 모르면 취하지 말아야 한다. 깝삐야에게 포기한다고 날짜가 재계산되지 않는다. #찬다수마나
 		- 추가질문: 꿀은 재가자에게 포기해도 날짜 재계산이 안된다고 들었는데 위나야 453을 보면 마음에서 모든 소유권을 버리고 출가자 아닌 사람에게 주었다면 다시 받아 또 다른 7일 사용할 수 있다고 나와 있습니다.
@@ -291,7 +291,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 깝삐야 밥 먹는데 눈치줘서 주스 받아도 될까?
 		- 문제없다. #찬다수마나
 		- 배경: Can we get a juice from devotee who is eating food? When I went to dining room, lay woman ate something. She saw me  and quickly stopped eating then give me juice. 
-		  		 문제없다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;문제없다.
 ### 보시자에게 받자마자 보시물 다른 재가 불자에게 주기
 		- 범계는 아니지만 적절치 않다. 주는 사람의 신심을 떨어 뜨리는 것이다. 그들은 나중에 저 빅쿠들은 어차피 필요없을 것이라며 보시를 더 하지도 않을 것이다. #찬다수마나
 		- 보시받자 마자 다른 재가불자에게 보시물을 바로 보시하는 일은 적절하지 않습니다. 나중에 일을 부탁하고 그 댓가로 주는 것을 가능합니다. #담마다야다
@@ -343,9 +343,9 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 거주 빅쿠와 방문 빅쿠 의무 종무소서 정말 다하나
 		- 그렇다. 먹는 물 씻는 물부터 다 알려줌. 발우가지고 있으면 우리가 들어줌(더 구참일 때 그런 듯) #미얀마빅쿠
 		- 배경: 최근 거주 빅쿠 방문 빅쿠에 대한 수업을 들었다. 거기에 많은 디테일한 단계들이 있다. 씻는 물 먹는 물 유학 가정 탁발 시간 등등등. 정말로 이것을 다 알려주나?
-		  		  그렇다. 먹는 물 씻는 물부터 다 알려줌. 발우가지고 있으면 우리가 들어줌(더 구참일 때 그런 듯)
-		  		  @내가 듣기로 이거 의무 안하면 전체 승원 빅쿠 둑까따라는데
-		  			  아니다. (스리랑카 빅쿠는 전체 둑까따라고 했음)오직 방문 빅쿠 처음 본 빅쿠에 해당 혹은 방문 빅쿠라고 인지하면서도 그 빅쿠 무시하고 지나칠 경우 범계. 하지만 보고서 종무소를 안내해주면 범계가 아니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;그렇다. 먹는 물 씻는 물부터 다 알려줌. 발우가지고 있으면 우리가 들어줌(더 구참일 때 그런 듯)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@내가 듣기로 이거 의무 안하면 전체 승원 빅쿠 둑까따라는데
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;아니다. (스리랑카 빅쿠는 전체 둑까따라고 했음)오직 방문 빅쿠 처음 본 빅쿠에 해당 혹은 방문 빅쿠라고 인지하면서도 그 빅쿠 무시하고 지나칠 경우 범계. 하지만 보고서 종무소를 안내해주면 범계가 아니다.
 ### 거주 빅쿠 방문 빅쿠 의무를 안 지키면 둑까따라는데..
 		- 이번에 거주 방문빅쿠 예절 강의에서 저 의무를 안하면 승원 전체 빅쿠 둑까따라는데요. 저기 나오는대로(물은 어딨는지에서부터 부채질 부쳐주는 것까지) 다 해야 하는 건가요? 이 거주 방문 빅쿠 개념은 정확히 모르겠으나 반떼 삥우린 오셨을 때 저런 것 다 물으시는 것도 보지 못한 것 같고 안내도 안해준 것 같은데요.
 			- 삥우린에 살아봤고 여러 번 방문 했기 때문에 사정을 다 알고 있기 때문에 물을 필요가 없기 때문입니다. 모르는 것은 예전에 다 물어 봤습니다. 혹시 빠뜨린 것이 있을 경우에 대비해 아빳띠 데사나를 빠띠목카 전에 일률적으로 하는 것입니다. 대체로 승원 소임자가 기본적으로 알려줘야 할 것은 다 알려 줍니다. 예전과 상황이 달라서 개인 꾸띠가 있고, 탁발을 승원 안에서 하기 때문에 물어보고 알려줘야 할 것이 많이 줄어듭니다. #담마다야다
@@ -381,7 +381,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 		- 추가질문: 일반적인 수행방법이야기는 되나요?
 			- 그것은 되지만 조심해야 한다. 만약 자신이 까시나 수행 중이라고 하면 결국 아나빠나 선정 후에 하는 것으로 유추할 수 있다. 그래서 증득한 사람이란 인상을 줘 보시를 받거나 한다면 적절치 않다. #찬다수마나
 		- 추가질문: 배경설명을 드리자면 저번 인터뷰 때 마하야나 빅쿠 있는데서 비왐사께서 인터뷰를 진행하셨습니다. 저는 마하야나 빅쿠나 빅쿠니 앞에서 재가자와 마찬가지로 수행 이야기는 못하는 것으로 알았습니다. 저희는 증득이 없으니 진행하신 건지 잘 모르겠습니다.
-		  	 그래서 찬나 수마나 반떼에게 질문한 건데 범계는 아니라고 하는 것 같은데 적절치는 않다 뭐 이런 이야기로 들었습니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;그래서 찬나 수마나 반떼에게 질문한 건데 범계는 아니라고 하는 것 같은데 적절치는 않다 뭐 이런 이야기로 들었습니다.
 		- 인터뷰 시간에는 여건상 조건을 완벽히 만들기 어렵고 증득 관련 내용이 없다고  봐서 진행했을 것입니다. 약간의 예외적인 경우 말고 스승이외의 사람과 수행 관련 이야기를 삼가는 것이 좋습니다. #담마다야다
 ### 잡초를 밟아도 됩니까? 잡초를 비닐을 덮어도 되는가?
 		- 이것을 길이라고 결정을 하고 밟으면 범계가 아니다. 꾸띠를 보호하기 위한 목적으로 씌운다면 범계가 아니다. #찬다수마나
@@ -427,13 +427,13 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 		- 직접 뿌리지 않고 방어용으로 살충제를 사용하는 것은 괜찮을 듯합니다. 법당 앞에 모기향도 피우는 것을 봐서... #담마다야다
 ### 발을 바닥에 문지르며 발을 닦아도 되는가?
 		- 배경: Because of ants, I have to fix my kutti, so I could not practice for 3days. So little bit restlessness is strong and breath also not comfortable. I try to do counting method for recovering condition. I realize regular practice is very important.
-		    Can we use insect powder to protect ants? If we sprinkle or scatter beforehand not directly, can we use? We use wasted oil to protect kutti.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can we use insect powder to protect ants? If we sprinkle or scatter beforehand not directly, can we use? We use wasted oil to protect kutti.
 		- 문제없다 #우꾸마라
 		- 배경: We can not rub the body on the wall for bath. Then Can we clean the foot by rubbing on the toilet ground? Buddha allowed the stone to clean the  foot.
 ### 땅위서 낙엽 태워도 되나?
 		- 어떤 건 가능하지만 사야도지는 싫어하신다. #우꾸마라
 		- 배경: Sayadaw, can we burn the leaves on the soil just with intention to clean not warm?
-		  	어떤 건 가능하지만 사야도지는 싫어하신다. 거기에 작은 벌레들이 많이 있으므로. 깝삐야 통해서 한다면 좋다. 빅쿠는 좀 위험하다 작은 벌레들이 많이 있으므로
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;어떤 건 가능하지만 사야도지는 싫어하신다. 거기에 작은 벌레들이 많이 있으므로. 깝삐야 통해서 한다면 좋다. 빅쿠는 좀 위험하다 작은 벌레들이 많이 있으므로
 ### 빅쿠가 약을 놓고 갔다. 이것도 핫타빠사 안에서 받아야 하는가?
 		- 아님. 보시한 빅쿠가 보시자로부터 여법하게 받은 것을 다시 다른 빅쿠에게 보시하는 경우는 괜찮습니다. 빅쿠가 보시한 것이기 때문입니다. #담마다야다
 		- 배경: 우리 빅쿠가 스푸루리나를 마련해서 제 꾸띠 안에 놓고 가고 뒤에 자기가 보시했다고 언급했는데요. 이것도 당사자 데려와서 직접 받아야 합니까? 아니면 그냥 써도 무방한가요.
@@ -457,34 +457,34 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 빗자루로 쓸려고 하는데 개미가 다칠 것 같을 때 빗자루 질을 한다면?
 		- 죽이려는 의도가 없이 쓸다가 죽으면 범계가 아니지만 최대한 조심해야함 #찬다수마나
 		- 배경:   As far as I know, we can sweep ants or insects with broom. So I used to sweep ants and put in the basket and throw away. Then sometime i think I have intention to use vinaya rule.
-		  	  I know if I sweep strongly, ant is damaged and can not move quickly. So I think I intentionally sweep strong. because if ants move quickly they can run out from basket. I have to catch them again. If I sweep strongly with intention to damage, is it appatti?
-		  	  죽이려 했는데 죽지 않고 다치기만 했다면 둑가따. 그래서 플라스틱 빗자루 말고 순한 갈색 빗자루로 쓰는 것이 좋음.
-		  		  죽이려는 의도가 없이 쓸다가 죽으면 범계가 아니지만 최대한 조심해야함.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I know if I sweep strongly, ant is damaged and can not move quickly. So I think I intentionally sweep strong. because if ants move quickly they can run out from basket. I have to catch them again. If I sweep strongly with intention to damage, is it appatti?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;죽이려 했는데 죽지 않고 다치기만 했다면 둑가따. 그래서 플라스틱 빗자루 말고 순한 갈색 빗자루로 쓰는 것이 좋음.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;죽이려는 의도가 없이 쓸다가 죽으면 범계가 아니지만 최대한 조심해야함.
 ### 자기 꾸띠들어갈 때도 발 씻어야 하나?
 		- 아빳띠는 아님. 원래 맨발로 다니는 승원이 있어서 그런 곳이면 무조건 들어가기 전에 발을 씻으라고 하긴 함. 명상홀 들어갈 때도 발이 매우 더러워 홀 안도 더러워질 것 같으면 씻어야 하는 것. 슬리퍼 신으면 그리 큰 문제가 되지 않음 #찬다수마나
 		- 배경: When our foot become dirty, We have to wash our foot before enter the meditation hall. Then should we also wash foot before entering the his kutti?
 ### 명상할 때는 무조건 문 닫아야 하나?
 		- 밤에는 닫아야 한다. #찬다수마나
 		- 배경:     명상할 때는 무조건 문 닫아야? 외 
-		  	  When we practice in our kutti, should we close door?
-		  		  밤에는 닫아야 한다. 언제부터 언제까지는 상관없다. (무슨 달력에 있다는 시간이라는데 무슨 소린지 모르겠음)
-		  			  밤에 문을 닫지 않는다고 해서 범계는 아님. 하지만 붓다께서 낮에 쉴 때 방 문 닫는 것을 허락하셨음
-		  	  When we sleep in kutti, should we close door?
-		  		  닫아야 한다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When we practice in our kutti, should we close door?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;밤에는 닫아야 한다. 언제부터 언제까지는 상관없다. (무슨 달력에 있다는 시간이라는데 무슨 소린지 모르겠음)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;밤에 문을 닫지 않는다고 해서 범계는 아님. 하지만 붓다께서 낮에 쉴 때 방 문 닫는 것을 허락하셨음
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When we sleep in kutti, should we close door?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;닫아야 한다.
 ### 꾸띠 침범한 대나무를 꺾을 수 있는가?
 		- 가지칠 수 없다. 꾸띠 침범하더라도 부러뜨리지 않는 범위 내에서 움직이는 것만 가능하다. 껍질을 벗겨도(bark) 빠찟띠야이다. 나무가 꾸띠를 침범하면 깝삐야에게 '깝삐야오하라(여법한 표현)를 사용하여 부탁해야 함. #찬다수마나
 ### 여명 시간에 화장실 가려면 기본 가사 삼의 가져가야 하는가?
 		- (꾸띠의) 보시자가 여럿이고 출입구가 다수일 경우 가사  핫타빠사 안에 있어야 함. 출입구가 하나일 경우에는 꾸띠 안에만 있으면 됨. 하지만 야외일 때는 가사의 핫타빠사 안에 있어야. #찬다수마나
 		- 배경: We have to stay within hattapasa with basic robe in dawn time because of NP2. Then if we want to go to toilet that time, can we always bring basic robe? Is there any exception?
-		  	 A. (꾸띠의) 보시자가 여럿이고 출입구가 다수일 경우 가사  핫타빠사 안에 있어야 함. 출입구가 하나일 경우에는 꾸띠 안에만 있으면 됨. 하지만 야외일 때는 가사의 핫타빠사 안에 있어야.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. (꾸띠의) 보시자가 여럿이고 출입구가 다수일 경우 가사  핫타빠사 안에 있어야 함. 출입구가 하나일 경우에는 꾸띠 안에만 있으면 됨. 하지만 야외일 때는 가사의 핫타빠사 안에 있어야.
 ### 보시받은 화분에 꽃심기 가능한가?
 		- 밖에 있고 비가 온지 3개월 전의(위나야에는 4개월이라고 되어 있음) 토양을 자따빠따민이라고 하고 그것을 퍼내면 아자따빠따민이라고 한다. 여기에는 빅쿠 스스로 식물을 심을 수 있다. 집에 화분이 있어도 심어도 됨. #찬다수마나
 		- 배경: I was offered some flowerpot. And I was offered little flowers. So I plant that flower to flowerpot. Is it allowable?
 ### 제습기 상가 오피스로부터 빌린 것 다른 빅쿠 다른 꾸띠에 빌려줘도 되는가?
 		- 빌려줄 수 있음. 하지만 나중에 상가 오피스에 반납하라고 고지해야 함. #찬다수마나
 		- 배경:   When I take Dehumidifier from sangha office warehouse. Sangha office bhante said write down the sign in some papar so I write  my dhamma name. Is this 가루빈다? >그렇다.
-		  	  Can I lend a dehumidifier to another bhikkhu? >빌려줄 수 있음. 하지만 나중에 상가 오피스에 반납하라고 고지해야 함.
-		  	  If I make them broken or lost. Is there any penalty? > 그런 건 없다. 고장나면 상가에 반납.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can I lend a dehumidifier to another bhikkhu? >빌려줄 수 있음. 하지만 나중에 상가 오피스에 반납하라고 고지해야 함.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If I make them broken or lost. Is there any penalty? > 그런 건 없다. 고장나면 상가에 반납.
 ## 법당에서
 ### 법당에 계속해서 기본 가사 삼의를 두고 지내도 되는가?
 		- 범계는 아니지만 적절치 않아 보임. #담마다야다
@@ -598,14 +598,14 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 업은 의도인데 그럼 의도가 없는 범계는 모두 악업이라 볼 수 없는가?
 		- 심각하지 않다면 업은 업이지만 심각하지는 않은 것. #우꾸마라
 			- 배경: Kamma is volition(cetana). If so, is not appatti without intention bad kamma?
-			  심각하지 않다면 깜마이지만 심각하지는 않은 것. 만약에 의도를 가지고 어겼다면 조금 심각한 범계. 두 종류의 다른 아빳띠가 있다. 로까와짜 예를 들어 동물 죽이기. 그럼 모든 사람이 그걸 나쁜 행위라 본다. 하지만 그게 나쁜 행위라도 네가 걷다가 한 곤충을 죽였다면 그것은 아빳띠가 아니다. 의도적으로 죽였다면 동물 죽인 것. 그리고 (의도적으로 안 죽였으면) 너의 증득에 장애가 되지 않는다. 의도적으로 어겼을 때 증득에 방해가 된다.
-			  나무 자라는 걸 잘랐다 하자 자연법칙에 따르면 나무 자르는 건 악업이 아니다. 하지만 붓다의 위나야룰에 따라 나무나 풀을 자를 수 없다. 만약 의도적으로 그걸 어겼다면 그건 증득에 방해. 의도 없이 하면 어떤 건 의도 없어도 아빳띠 지만 선정 도과 증득에 방해되지 않음. 어쩔 때는 마음에 따른 것이고 어쩔 때는 의도가 없어도 방해를 할 수도 있다. 삿찌따까 앗찌따까(?)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;심각하지 않다면 깜마이지만 심각하지는 않은 것. 만약에 의도를 가지고 어겼다면 조금 심각한 범계. 두 종류의 다른 아빳띠가 있다. 로까와짜 예를 들어 동물 죽이기. 그럼 모든 사람이 그걸 나쁜 행위라 본다. 하지만 그게 나쁜 행위라도 네가 걷다가 한 곤충을 죽였다면 그것은 아빳띠가 아니다. 의도적으로 죽였다면 동물 죽인 것. 그리고 (의도적으로 안 죽였으면) 너의 증득에 장애가 되지 않는다. 의도적으로 어겼을 때 증득에 방해가 된다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;나무 자라는 걸 잘랐다 하자 자연법칙에 따르면 나무 자르는 건 악업이 아니다. 하지만 붓다의 위나야룰에 따라 나무나 풀을 자를 수 없다. 만약 의도적으로 그걸 어겼다면 그건 증득에 방해. 의도 없이 하면 어떤 건 의도 없어도 아빳띠 지만 선정 도과 증득에 방해되지 않음. 어쩔 때는 마음에 따른 것이고 어쩔 때는 의도가 없어도 방해를 할 수도 있다. 삿찌따까 앗찌따까(?)
 ### 왓지의 후예 경에서 빅쿠가 빠띠목카 계 너무 많다고 하니 붓다께서 높은 계 높은 마음 높은 통찰지를 닦으라고만 하셨는데..
 		- 붓다께서 방편으로 설하신 것. #우꾸마라
 		- 배경: In vajjiputta sutta, some vajji bhikkhu said he can not recite 150 training rule so buddha said train high sila high mind high wisdom.  I don't understand what is different between 150 training rule and high sila. Could he train high sila without studying patimokkha?
-		  	  collapsed:: true
-		  		  붓다께서 방편으로 설하신 것. 예를 들어 대나무가 150개나 있으면 이걸 어찌 옮기나 하지만 세 묶음이면 옮길 수 있다. 이렇게 들은 후 그 왓지 후예는 결국 150을 다 지켜 아라한이 된다. 비슷하게 율을 못 지킨다고 해서 계사가 붓다 앞으로 데리고 갔더니 붓다는 하나만 지킬 수 있냐고 묻고 마음을 훈련하라고 하셨다.
-		  		  (결국 높은 계와 150계는 같다는 소리)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collapsed:: true
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;붓다께서 방편으로 설하신 것. 예를 들어 대나무가 150개나 있으면 이걸 어찌 옮기나 하지만 세 묶음이면 옮길 수 있다. 이렇게 들은 후 그 왓지 후예는 결국 150을 다 지켜 아라한이 된다. 비슷하게 율을 못 지킨다고 해서 계사가 붓다 앞으로 데리고 갔더니 붓다는 하나만 지킬 수 있냐고 묻고 마음을 훈련하라고 하셨다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(결국 높은 계와 150계는 같다는 소리)
 ### 빠리와사 마낫따 시 정상빅쿠와 같은 지붕안에 못 산다는데 지붕의 개념은 어떻게 되는가?
 		- 개별 건물에서 같이 잠잘 시 문제된다는 것. 지붕은 어떤 종류의 지붕이든 다 해당. #우꾸마라
 ### 빌린 상황에서 주인이 떠났다면?
@@ -613,7 +613,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 		- 배경: 깟사빠라는 중국 빅쿠로부터 주파수 송신기를 받아서 동시통역기로 여태껏 사용하고 있었습니다. 케이스 밖에는 중국 말로 테이프가 붙어 있어서 저는 중국 빅쿠들 쓰는 용도인가 보다라고 생각하고 빌렸다 생각하고 지금껏 쓰고 있었습니다.
 		  그 빅쿠가 줄 때도 별 말 없이 쓰라고 줬습니다. 그런데 그 깟사빠 빅쿠가 중국으로 갔고 언제 올지는 모른다 이야기를 들었습니다.
 		  중국 빅쿠 전체용인지 그 빅쿠 소유인지도 잘은 모릅니다. 전 빌렸다 생각하고 언젠가 줘야 한다고 생각하고 쓰고 있습니다. 이럴 때 어떻게 해야 하나요? 그 빅쿠를 아는 빅쿠에게 연락해서 송신기를 계속 써도 되냐고 물어야 하나요?
-		  	중국 빅쿠가 갈 때 별 말 없이 갔다면 그냥 사용해도 될 것 같습니다. 나중에 만나면 그때 물어보면 될 것 같습니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;중국 빅쿠가 갈 때 별 말 없이 갔다면 그냥 사용해도 될 것 같습니다. 나중에 만나면 그때 물어보면 될 것 같습니다.
 ### 재가자 종무소에 우산을 잃어 버리고 갔다가 다시 찾으러 가서 가져올 수 있는가?
 		- 있다. #찬다수마나
 		- 배경: Yesterday I forgot umbrella so put into laypeople office then I went back to there in 20 minutes and take out my umbrella. Is there any problem? Or should I say to laypeople give it to me that?
@@ -627,8 +627,8 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 깔개가 가죽인 사람들은 테두리를 어떻게 해야 하는가?
 		- 보통 여별 천으로 결정한다. 그럼 깔개 기준에 안 맞춰도 되서 문제없다. #찬다수마나
 		- 배경: Receiving or making a sitting cloth that exceeds the standard measurement pc89
-		    then someone have leather
-		    답: 깔개엔 기준이 없다. 안해도 범계 아님
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then someone have leather
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;답: 깔개엔 기준이 없다. 안해도 범계 아님
 ### 예불이 여명 전에 한다면 아침 예불은 어제인가 오늘인가?
 		- 답: 위니야 기준으론 여명으로 하루를 나눔. 12시로 나누는 것은 서양기준 #찬다수마나
 		- 배경: 예불이 여명 전에 한다면 아침 예불이 어느 기준이냐 여명을 하루로 친다고 하길래 궁금함. 답: 위니야 기준으론 여명으로 하루를 나눔. 12시로 나누는 것은 서양기준
@@ -650,15 +650,15 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 까티나 혜택의 시작 시간
 		- 까티나 행사에서 아누모다나를 해야하고 깜마 후에 5개월 간 혜택이 있다. #찬다수마나
 		- 배경:  	  When will kattina privilege(benifit) start and finish? #sila
-		  		  까티나 행사에서 아누모다나를 해야하고 깜마 후에 5개월 간 혜택이 있다.
-		  			  Q 언제 까티나 행사를 시작하는가? A 정확한 날짜는 모르지만 자자후 일주일 뒤일 것.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;까티나 행사에서 아누모다나를 해야하고 깜마 후에 5개월 간 혜택이 있다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q 언제 까티나 행사를 시작하는가? A 정확한 날짜는 모르지만 자자후 일주일 뒤일 것.
 ### 우리는 허용된 필수품 영수증같은 것을 받는데 이것은 적절한가?
 		- 문제없다. 사실 이미 허용된 필수품은 준비가 되었다. 이것은 상기시키는 절차에 불과하다. (여기는 전산 시스템이 아니기 때문에 이미 다 받아놓고 확인 절차상 하는 것이란 의미인 듯) #찬다수마나
 		- 만약에 깝삐야가 허용된 필수품이란 말 없이 돈. 짯. 달러 이렇게 이야기한다면?
 			- 만약 깝삐야가 돈이 1만 짯 보시됐다고 이 돈으로 필요한 것 있으면 말해달라라고 한다면 문제. 허용된 필수품을 넣어 적절히 이야기하면 문제 없음. #찬다수마나
 ### 까티나 혜택이 5개월이라는데 그것은 어떻게 계산하는가? 언제 끝나는가?
 		- 사실 자자 이후 다음 보름까지(full moon day) 까티나 행사를 안하더라도 이미 혜택은 유효하다. 23일에 첫째달이 끝난다. 나머지 4개월은 겨울 기간이다.
-		  	   이런식으로 계산해서 3월 25일이 마지막 날이다. #찬다수마나
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이런식으로 계산해서 3월 25일이 마지막 날이다. #찬다수마나
 ### 은행 계좌 포기않고 출가할 수 있는가에 대해
 		- #찬다수마나
 			- 미얀마
@@ -674,7 +674,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 			- 된다 안된다 두가지 아이디어가 있음.
 			- 첫째. 재가자 때 영원히 빅쿠되기를 진실로 원하고 가족이나 깝삐야에게 자신의 계좌를 맡기고 그가 관리한다면 가능
 			- 둘째. 빅쿠가 승원에 계좌 가짐.
-			  collapsed:: true
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collapsed:: true
 				- 또 하나는 승원 계좌. 승원 계좌가 더 나음. 예를 들어 누군가 200달러를 보시하고 싶다 했다. 안전한 곳을 알려주십쇼라고 깝삐야가 함 함. 그럼 빅쿠가 그 계좌(자기 명의 은행 계좌가 아닌 여기같은 승원 필수품 수첩을 의미하는 듯)를 알려줌.
 				- 그럼 깝삐야가 가짐. 빅쿠는 못 만짐. 깝삐야가 관리. 빅쿠가 요청하면 그걸로 물건 마련. 이것이 율. 이것을 고려해 (누군가는) 은행 계좌도 가능하다고 생각. 안전한 곳이 은행이나 승원 계좌라는 것. 깝삐야가 거기다 두고 빅쿠가 원하면 깝삐야가 마련하는 식으로 가능.
 				- @어쨋간에 그럼 은행 계좌 가능하다는 건가? 누군가는 싫어하고(dislike) 누군가는 가능하다 봄. @미얀마는 어떤가. 누군가는 가지고 누군가는 안가지고. 우리는 없다
@@ -693,15 +693,15 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 		- 추가질문:  @해피반떼 사례는 좀 헷갈립니다. 당사자(해피 반떼)가 아니고 제 삼자에게 모욕하려는 의도(한량같다고 약간 비웃는 의미이므로)로 말했다면 제삼자가 그 비웃는 의도를 알아차리면 둡빠시따인가요. 아니면 제삼자에게 이야기라면 범계가 아닌가요?
 			- 다른 사람이 모욕을 느껴도 둡바사따라고 되어 있습니다. #담마다야다
 			- 배경: 어느 반떼를 우리끼리 해피반떼라고 부르고 있는데요. 자꾸 are you happy라고 물어봐서 그렇게 처음엔 불렀습니다. 그런데 하도 실없이 웃고 다니고 여러 사람 어울리고 다녀서 '저 반떼는 참 세상 해피하다'는 약간 비아냥의 의미도 있습니다. 이러면 해피반떼라고 그 사람이 없는데서 부를 때 둑까따인가요?
-			  		  모욕하려는 의도없이 빅쿠가 다른 사람에 대해 농담하면 상대가 농담 또는 모욕으로 알아듣든지 관계 없이 둡바시따(나쁜 말, 악설)를 범합니다.
-			  		  빅쿠가 모욕하는 주제 중의 하나를 언급하고 모욕적인 뜻으로 동료 빅쿠에게 한마디 하면 그것이 농담이라도 빠찟띠야를 초래합니다. 그 말이 농담을 뜻하면 다른 사람이 모욕을 느껴도 둡바시따를 초래합니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;모욕하려는 의도없이 빅쿠가 다른 사람에 대해 농담하면 상대가 농담 또는 모욕으로 알아듣든지 관계 없이 둡바시따(나쁜 말, 악설)를 범합니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;빅쿠가 모욕하는 주제 중의 하나를 언급하고 모욕적인 뜻으로 동료 빅쿠에게 한마디 하면 그것이 농담이라도 빠찟띠야를 초래합니다. 그 말이 농담을 뜻하면 다른 사람이 모욕을 느껴도 둡바시따를 초래합니다.
 ### 출가하지 않은 사람의 잘못된 행위를 출가자끼리 이야기해도 범계일까?
 		- 문제없음. 빅쿠가 재가불자의 구체적 범계와 중대하거나 그렇지 않은 범계를 동시에 출가하지 않은 사람에게 말하지 않는다면 범계가 아니라고 되어 있습니다. #담마다야다
 		- 배경: 한 깝삐야가 평판이 좋지 않은 듯 한데요. 우리 빅쿠가 그 단기 출가자가 귀국 방법 물어봤을 때 저 깝삐야에게는 이야기 하지 말라고 했다 합니다. 실제로 택시요금을 다른 깝삐야보다 훨씬 높게 불렀다 합니다.
-		  	  위나야를 보니 출가하지 않은 사람의 잘못된 행위는 중대하거나 중대하지 않거나 둑까따 근거라고 나오는데요. 이것은 출가하지 않은 사람의 잘못된 행위를 출가자끼리 이야기해도 그런가요.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;위나야를 보니 출가하지 않은 사람의 잘못된 행위는 중대하거나 중대하지 않거나 둑까따 근거라고 나오는데요. 이것은 출가하지 않은 사람의 잘못된 행위를 출가자끼리 이야기해도 그런가요.
 		- 빅쿠가 재가불자의 구체적 범계와 중대하거나 그렇지 않은 범계를 동시에 출가하지 않은 사람에게 말하지 않는다면 범계가 아니라고 되어 있습니다.
-		  		  그러므로 ‘저 사람에게 그런 부탁하지 않는 것이 좋다’라는 식으로 말하는 것은 문제가 없을 것입니다. 구체적 범계 행위와 범계 종류(등급)를 동시에 말하지 않았기 때문입니다.
-		  		  여기서는 빅쿠가 출가하지 않은 사람에게 범계를 말하는 것을 다루므로 빅쿠끼리 그런 말을 하는 것은 해당하지 않는다고 볼 수 있습니다. #담마다야다
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;그러므로 ‘저 사람에게 그런 부탁하지 않는 것이 좋다’라는 식으로 말하는 것은 문제가 없을 것입니다. 구체적 범계 행위와 범계 종류(등급)를 동시에 말하지 않았기 때문입니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;여기서는 빅쿠가 출가하지 않은 사람에게 범계를 말하는 것을 다루므로 빅쿠끼리 그런 말을 하는 것은 해당하지 않는다고 볼 수 있습니다. #담마다야다
 ### 요가 프로그램 포인트 받으려고 일부러 켜놓기
 		- 이것은 그들에게서 실제 훔친 것이 아니기 때문에 문제가 되지 않는다. 그들로부터 훔쳐냈을 때 문제가 된다. #찬다수마나
 		- 배경: 사용하는 요가 프로그램에서 10분을 사용하면 포인트 1점을 줌. 그것으로 다른 요가 클래스를 들을 수 있음. 그 포인트를 팔기도 함. 이럴 때 일부러 포인트를 벌려고 보지도 않고 켜놓는다면 사기나 훔침에 해당하는가? A 이것은 그들에게서 실제 훔친 것이 아니기 때문에 문제가 되지 않는다. 그들로부터 훔쳐냈을 때 문제가 된다.
