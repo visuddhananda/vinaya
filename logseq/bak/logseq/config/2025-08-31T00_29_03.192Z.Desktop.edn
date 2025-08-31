@@ -422,4 +422,4 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :preferred-format :markdown
- :default-home {}}
+ :default-home {:page "Readme"}}

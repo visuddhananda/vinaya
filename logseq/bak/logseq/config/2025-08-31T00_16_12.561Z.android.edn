@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Readme"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -421,5 +421,4 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
- :preferred-format :markdown
- :default-home {}}
+ :preferred-format :markdown}
