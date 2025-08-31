@@ -419,6 +419,7 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :feature/enable-journals? false
+ :feature/enable-journals? true
  :feature/enable-whiteboards? false
- :preferred-format :org}
+ :preferred-format :markdown
+ :default-home {:page "Readme"}}
