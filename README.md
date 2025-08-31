@@ -193,7 +193,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 없다. 다시 보시 받아야 한다. 발우 뚜껑에 먹던 음식을 놓고 계속 먹으려면 발우 뚜껑을 손에서 떼면 안된다. 미얀마의 어떤 사야도는 이 계율 때문에 빅쿠들이 수시로 범계한다고 하기도 한다. #우꾸마라
 ## 공양간에서
 ### 이 컵은 허용되는가?
-<img src="assets/2024-09-04-17-10-28.jpeg" alt="2024-09-04-17-10-28.jpeg" width="200">(../assets/2024-09-04-17-10-28.jpeg)
+<img src="../assets/2024-09-04-17-10-28.jpeg" alt="2024-09-04-17-10-28.jpeg" width="200">(../assets/2024-09-04-17-10-28.jpeg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 많은 사람들이 사용하고 있다. 허용된다. 하지만 의심이 있다면 승원 재산으로 여길 것. #우꾸마라
 ### 어제 라면을 승원 북샵에서 마련했다. 즉 깝삐야로부터 받았다. 그것을 공양간 앞에 두었다. 그 뒤 다음날 깝삐야에게 가르켜 그 라면을 받았다. 이럴 경우 받은 빅쿠는 범계인가?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 어제 빅쿠가 받은 라면을 보관했다가 오늘 다시 받았다면 보관한 음식을 받은 것이니 범계입니다. 그 라면을 다른 빅쿠가 먹어도 범계입니다. #담마다야다
@@ -201,7 +201,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 이 경우 빅쿠가 라면을 받아서 욕망을 완전히 포기하고 깝삐야게게 주고 깝삐야가 다음날 보시한다면 가능합니다. 빅쿠의 진정한 의도가 애매할 수도 있습니다. 깝삐야에게 주면서 내일 달라고 하면서 주고 깝삐야가 내일 그것을 주는 경우 소유권, 욕망을 완전히 포기하지 않았으므로 범계입니다.#담마다야다
 ### 발우를 물을 안 닦고 말리면 범계
 ### 녹차를 다음날 음식과 섞어 먹는다면?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- #우꾸마라 좋지 않다. 좋지 않다는 말은 많은 나라에서는 녹차를 약으로 보지만 미얀마에서는 많은 빅쿠들이 음식으로 본다. 우리는 차 잎을 쌀과 같이 먹곤 한다. 그래서 우리는 그것을 야와깔리까(음식)으로 본다. 이것이 첫번째 이유 스리랑카 같은 나라에서는 차를 음식으로 보지 않기에 그래서 약으로 본다. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- #우꾸마라 좋지 않다. 좋지 않다는 말은 많은 나라에서는 녹차를 약으로 보지만 미얀마에서는 많은 빅쿠들이 음식으로 본다. 우리는 차 잎을 쌀과 같이 먹곤 한다. 그래서 우리는 그것을 야와깔리까(음식)으로 본다. 이것이 첫번째 이유 스리랑카 같은 나라에서는 차를 음식으로 보지 않기에 그래서 약으로 본다.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;두번째 이유. 이미 차를 마셨다고 하면 너의 침이 거기에 묻었다고 하자. 그리고 차에서 손을 뗐다. 그럼 그것도 (바로 먹는 것이) 허용안된다. 깝삐야나 사마네라에게 다시 보시해달라고 요청해야 한다. 왜냐면 침이 이미 너의 몸을 떠났다면 그것은 '보시받지 않은 음식'이기 때문이다.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;차를 (끓여서를 의미하는 듯) 가지고 한 밤 이상 가지고 있는 것은 적절치 않다. 승원에는 차가 많이 있다. 다시 보시 받아 먹으면 아무런 의심도 없을 것이다.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;배경: sattāhakālika and yāvajīvika question, In our sankika table there is green tea leap. That is yāvajīvika. Maybe another bhikkhu receive and put this previous day. If I take that green tea , Can I shake ekāsanabhojanaṃ with that green tea?
@@ -215,19 +215,19 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 공양간에 발우 놓고 다니는 빅쿠들 있는데 범계인가?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 아니다. 하지만 어떤 사야도들은 개인 발우는 여기 놓지 말라고 말씀하기도 한다. 사실 빠따말라까(?) 라고 해서 빅쿠들 발우들을 먹고 나서 정렬해두는 장소 개념도 있다. 사마네라 스쿨에 있음 #찬다수마나
 ### 로얄디는 강장제인가 주스인가?
-<img src="assets/2024-04-08-13-08-52.jpeg" alt="2024-04-08-13-08-52.jpeg" width="200">(../assets/2024-04-08-13-08-52.jpeg)
+<img src="../assets/2024-04-08-13-08-52.jpeg" alt="2024-04-08-13-08-52.jpeg" width="200">(../assets/2024-04-08-13-08-52.jpeg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 7일 강장제다. 오렌지맛이라고 있지만 그것은 그냥 (오렌지가 인 섞인 화학 제품) 물에 섞어도 7일  #찬다수마나
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 배경: 성분 glucose 포도당 sodium 나트륨 potasium citrate 시트르산염 Orange flavour 오렌지향 오렌지맛
 ### 에너지 드링크는 주스인가 7일 약인가?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 당연히 주스이다. #우꾸마라
-<img src="assets/2024-08-06-17-18-59.jpeg" alt="2024-08-06-17-18-59.jpeg" width="200">(../assets/2024-08-06-17-18-59.jpeg)
+<img src="../assets/2024-08-06-17-18-59.jpeg" alt="2024-08-06-17-18-59.jpeg" width="200">(../assets/2024-08-06-17-18-59.jpeg)
 ### 공양간 식기나 그릇을 깝삐야에게 허락맡고 사용가능한가? 약을 끓일 용도로.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 가능하다. #찬다수마나
 ### 마 가루(Yam powder)가 약으로 허용되는가?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- #찬다수마나 허용된다.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- #담마다야다 마는 식용이냐, 약용이냐가 쟁점인데 한약재로 주로 사용되니 약으로 볼 수 있는데, 중국 빅쿠들은 어떻게 보고 있는지 먼저 알아보기 바랍니다. 약으로 본다면 오후에 먹을 수 있습니다.
 ### 타미린드 플레이크(말린 조각)가 나왔다. 식용인가 7일 혹은 평생 약인가?
-<img src="assets/2024-04-02-19-06-12.jpeg" alt="2024-04-02-19-06-12.jpeg" width="200">(../assets/2024-04-02-19-06-12.jpeg)
+<img src="../assets/2024-04-02-19-06-12.jpeg" alt="2024-04-02-19-06-12.jpeg" width="200">(../assets/2024-04-02-19-06-12.jpeg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 의견 1. 2와사 의사 반떼. 내가 알기론 평생 약이다. 하지만 음식으로 취하면 음식. #미얀마빅쿠
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 의견 2. 2와사 스리랑카 반떼. 정오 전 음식이다. #스리랑카빅쿠
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 추가질문: 저거보면서 겉에 파인애플 향이라고 적힌 걸 미얀마 빅쿠가 파인애플로 봐서 일단 음식으로 결론 내렸는데요. ~향이 첨가된 경우 그걸 음식으로 보나요?
@@ -290,7 +290,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 그럼 아빳띠데사나만 하면 된다. #찬다수마나
 ### 깝삐야 밥 먹는데 눈치줘서 주스 받아도 될까?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 문제없다. #찬다수마나
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 배경: Can we get a juice from devotee who is eating food? When I went to dining room, lay woman ate something. She saw me  and quickly stopped eating then give me juice. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 배경: Can we get a juice from devotee who is eating food? When I went to dining room, lay woman ate something. She saw me  and quickly stopped eating then give me juice.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;문제없다.
 ### 보시자에게 받자마자 보시물 다른 재가 불자에게 주기
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 범계는 아니지만 적절치 않다. 주는 사람의 신심을 떨어 뜨리는 것이다. 그들은 나중에 저 빅쿠들은 어차피 필요없을 것이라며 보시를 더 하지도 않을 것이다. #찬다수마나
@@ -465,7 +465,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 배경: When our foot become dirty, We have to wash our foot before enter the meditation hall. Then should we also wash foot before entering the his kutti?
 ### 명상할 때는 무조건 문 닫아야 하나?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 밤에는 닫아야 한다. #찬다수마나
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 배경:     명상할 때는 무조건 문 닫아야? 외 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 배경:     명상할 때는 무조건 문 닫아야? 외
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When we practice in our kutti, should we close door?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;밤에는 닫아야 한다. 언제부터 언제까지는 상관없다. (무슨 달력에 있다는 시간이라는데 무슨 소린지 모르겠음)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;밤에 문을 닫지 않는다고 해서 범계는 아님. 하지만 붓다께서 낮에 쉴 때 방 문 닫는 것을 허락하셨음
@@ -572,7 +572,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- ‘재가불자든 빅쿠든 극단적으로 싫어하거나 극단적으로 좋아하지 않으려고 노력해야 합니다.’
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 위의 사항들은 빅쿠로 살아가는 한 유념하는 것이 좋습니다. 특히 재가불자가 필요한 것이 있느냐고 물어볼 때 미얀마 계사들도 갓 계를 받은 빅쿠들에게 바로 부탁하지 말라고 주의를 준다고 합니다. 재가불자는 눈앞에서 이것저것을 하겠다거나 무엇을 보시하겠다고 하지만 얼마 안 가서 마음이 변하기 쉽기 때문입니다. 실례로 미얀마에서 재가불자가 필요한 것이 있으면 요청하라는 말을 듣고 나중에 어떤 빅쿠가 부탁했더니 그 재가불자가 부탁을 들어주지 않았다는 일이 있었습니다. 물론 말을 해놓고 나중에 보시하는 사람도 있습니다. 시간이 지나면서 적절한 상황에 따라 부탁할 일도 생길 수도 있겠으나 조심하는 것이 좋습니다. 필요한 것이 있으면 당분간 이 빅쿠에게 이야기하기 바랍니다.
 ### 통신사 데이터 패키지를 빅쿠가 선택해도 될까?
-<img src="assets/2024-06-01-09-26-29.jpeg" alt="2024-06-01-09-26-29.jpeg" width="200">(../assets/2024-06-01-09-26-29.jpeg)
+<img src="../assets/2024-06-01-09-26-29.jpeg" alt="2024-06-01-09-26-29.jpeg" width="200">(../assets/2024-06-01-09-26-29.jpeg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 통신사 올레도 앱을 보면 이렇게 데이터 패키지를 자신의 톱업(통신사 잔액의 개념) 한도 내에서 선택해서 데이터를 충전할 수 있다. 이것은 허용되는가?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 허용된다. 어떤 스승들은 문제 있다고 볼 수 있다. 그러나 (우꾸마라) 사야도도 문제없다고 하셨다. #찬다수마나
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 추가질문: 마치 교환처럼 보이는데...
