@@ -1,6 +1,8 @@
-<div style="border: 1px solid #ddd; padding: 15px; margin: 20px 0; border-radius: 5px; background-color: #f9f9f9;">
+<div style="border: 2px solid #4CAF50; padding: 20px; margin: 20px 0; 
+border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
 
-## 목차
+<h2 style="margin-top: 0;">📑 목차</h2>
+
 - [들어가며](#들어가며)
 - [최신 내용 혹은 편집 중](#최신-내용-혹은-편집-중)
   - [발우를 들고 가다가 음식을 흘렸다면 다시 주워 먹을 수 있는가?](#발우를-들고-가다가-음식을-흘렸다면-다시-주워-먹을-수-있는가)
