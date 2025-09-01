@@ -241,7 +241,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 누군가는 레몬을 야와지와까 평생약으로 보지만 누구는 다른 의견. 주스 혹은 야와까리까 1일 사용으로 봄. #우꾸마라<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 배경: According to commentary if one keep plant oil which is not included in vibhanga, dukkatta. is lemon oil allowable?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;무엇을 위해서? (먹는 거라던가) 누군가는 레몬을 야와지와까 평생약으로 보지만 누구는 다른 의견. 주스 혹은 야와까리까 1일 사용으로 봄.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@그래서 레몬 오일은 허용되나 >> 잎이나 나무서 만들어진 거면 됨.  과일에선 안됨. 누군가는 평생약으로 보고 누구는 주스로 본다.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❓ 그래서 레몬 오일은 허용되나 >> 잎이나 나무서 만들어진 거면 됨.  과일에선 안됨. 누군가는 평생약으로 보고 누구는 주스로 본다.<br>
 ### 발우에 쓰레기를 넣어서는 안된다. 발우 뚜껑에 올려야 한다.  (매번 과자봉지랑 요쿠르트 쓰레기를 발우에 넣어서 한번에 버렸는데 발우에 쓰레기를 넣어서는 안된다고 함.) #미얀마빅쿠
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 추가질문: 그런데 다 먹은 과자봉지가 아니고 새 과자봉지도 발우에 넣으면 안되나요? 아니면 관계없나요?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 음식이 들어있으면 넣을 수 있음. #담마다야다<br>
@@ -323,7 +323,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 추가질문: 승원에서도 그런가?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 특히 walking area에서(경행로란 말인지 확실치 않음) 그래야 한다. 만약 사야도지가 워킹 에어리어에서 맨발로 걷고 계신데 따라가려면 우리도 벗어야.<br>
 ### 마낫따하면 네 명의 정상 빅쿠가 필요하다는데...
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 그렇다. @나는 상주 빅쿠 하나 밖에 못 봤는데. >> 거기 언제나 상주하는 빅쿠가 둘이 있고 보통 마나따를 하면 빅쿠 둘 셋을 (섭외해서) 데려 온다. 그래서 적어도 다섯 빅쿠는 있다.(꼭 셋이 동시에 그 쪽으로 가는 걸 자주 봤는데 이게 마낫따 하면 섭외를 해와서 그렇게 가는 듯) #우꾸마라<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 그렇다. ❓ 나는 상주 빅쿠 하나 밖에 못 봤는데. >> 거기 언제나 상주하는 빅쿠가 둘이 있고 보통 마나따를 하면 빅쿠 둘 셋을 (섭외해서) 데려 온다. 그래서 적어도 다섯 빅쿠는 있다.(꼭 셋이 동시에 그 쪽으로 가는 걸 자주 봤는데 이게 마낫따 하면 섭외를 해와서 그렇게 가는 듯) #우꾸마라<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 마낫따 하면 정상 빅쿠 넷에게 알려야 하는 것은 맞지만 그 승원에 정상 빅쿠가 꼭 넷이 없어도 된다. 예를 들어 빠리와사 빅쿠가 넷 마나따 빅쿠 하나 정상 빅쿠 하나가 있으면 빠리와사 빅쿠들이 여명에 의무 제쳐둬서 정상 신분이 되면 그 사람에게 마나따 빅쿠가 알리면 된다. #미얀마빅쿠<br>
 ### 마낫따 하면 승원 모든 빅쿠에게 알려야 한다는데 난 들어본 적이 없다.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 가본 적이 있는지 모르지만 빠리와사 승원이 따로 있다. 여기서 전 승원 빅쿠에게 알리긴 어려우므로 거기 승원서 지내면서 거기 빅쿠들에게 알린다. (사야도지 꾸띠에서 조금 내려가면 꾸띠 몇개 있는 곳이 있으며 빠리와사 하는 빅쿠는 거기서 머묾. 몰랐는데 거기가 승원이라고 함) #우꾸마라<br>
@@ -344,7 +344,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 그렇다. 먹는 물 씻는 물부터 다 알려줌. 발우가지고 있으면 우리가 들어줌(더 구참일 때 그런 듯) #미얀마빅쿠<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 배경: 최근 거주 빅쿠 방문 빅쿠에 대한 수업을 들었다. 거기에 많은 디테일한 단계들이 있다. 씻는 물 먹는 물 유학 가정 탁발 시간 등등등. 정말로 이것을 다 알려주나?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;그렇다. 먹는 물 씻는 물부터 다 알려줌. 발우가지고 있으면 우리가 들어줌(더 구참일 때 그런 듯)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@내가 듣기로 이거 의무 안하면 전체 승원 빅쿠 둑까따라는데<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❓ 내가 듣기로 이거 의무 안하면 전체 승원 빅쿠 둑까따라는데<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;아니다. (스리랑카 빅쿠는 전체 둑까따라고 했음)오직 방문 빅쿠 처음 본 빅쿠에 해당 혹은 방문 빅쿠라고 인지하면서도 그 빅쿠 무시하고 지나칠 경우 범계. 하지만 보고서 종무소를 안내해주면 범계가 아니다.<br>
 ### 거주 빅쿠 방문 빅쿠 의무를 안 지키면 둑까따라는데..
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 이번에 거주 방문빅쿠 예절 강의에서 저 의무를 안하면 승원 전체 빅쿠 둑까따라는데요. 저기 나오는대로(물은 어딨는지에서부터 부채질 부쳐주는 것까지) 다 해야 하는 건가요? 이 거주 방문 빅쿠 개념은 정확히 모르겠으나 반떼 삥우린 오셨을 때 저런 것 다 물으시는 것도 보지 못한 것 같고 안내도 안해준 것 같은데요.<br>
@@ -409,7 +409,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 ### 동료 빅쿠들과 빠띠목카 후에만 이야기하고 평소에 조용하자고 이야기해도 되는가?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 그렇게 하자고 할 수 있다. 수행때문에 묵언하겠다고 할 수 있다. #찬다수마나<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 배경: As far as I know in vassa we can not vow to silent whole vassa. Then may I say like this? 'Let's not talk , let's talk only after patimokkha.'<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 그렇게 하자고 할 수 있다. 수행때문에 묵언하겠다고 할 수 있다. 저기에 해당하는 것은 모든 빅쿠와 이야기도 안하고 법이나 위나야에 대해 물어도 아무런 말도 안하겠다는 맹세를 하는 경우. 그런 의도로 했다면 아빳띠. @이것은 와사에만 해당되는 계율인가? 아님. 언제나 적용.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 그렇게 하자고 할 수 있다. 수행때문에 묵언하겠다고 할 수 있다. 저기에 해당하는 것은 모든 빅쿠와 이야기도 안하고 법이나 위나야에 대해 물어도 아무런 말도 안하겠다는 맹세를 하는 경우. 그런 의도로 했다면 아빳띠. ❓ 이것은 와사에만 해당되는 계율인가? 아님. 언제나 적용.<br>
 ### 통신 쿠폰을 교환할 수 있는가?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 조건부 가능. 교환해달라 교환하고 싶다 이야기하면 안되고 난 올레도를 가지고 있다. Mpt가 필요하다 라는 식으로 이야기 했을 때 깝삐야가 알아서 바꾸어 준다면 가능. #찬다수마나<br>
 ## 꾸띠에서
@@ -677,7 +677,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;collapsed:: true<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 또 하나는 승원 계좌. 승원 계좌가 더 나음. 예를 들어 누군가 200달러를 보시하고 싶다 했다. 안전한 곳을 알려주십쇼라고 깝삐야가 함 함. 그럼 빅쿠가 그 계좌(자기 명의 은행 계좌가 아닌 여기같은 승원 필수품 수첩을 의미하는 듯)를 알려줌.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 그럼 깝삐야가 가짐. 빅쿠는 못 만짐. 깝삐야가 관리. 빅쿠가 요청하면 그걸로 물건 마련. 이것이 율. 이것을 고려해 (누군가는) 은행 계좌도 가능하다고 생각. 안전한 곳이 은행이나 승원 계좌라는 것. 깝삐야가 거기다 두고 빅쿠가 원하면 깝삐야가 마련하는 식으로 가능.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» @어쨋간에 그럼 은행 계좌 가능하다는 건가? 누군가는 싫어하고(dislike) 누군가는 가능하다 봄. @미얀마는 어떤가. 누군가는 가지고 누군가는 안가지고. 우리는 없다<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» ❓ 어쨋간에 그럼 은행 계좌 가능하다는 건가? 누군가는 싫어하고(dislike) 누군가는 가능하다 봄. ❓ 미얀마는 어떤가. 누군가는 가지고 누군가는 안가지고. 우리는 없다<br>
 ### 계율 알아보는 원칙
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 이 빅쿠 경험으로는 어떤 쟁점이 발생하면 예전에 몰라민에 있을 때, 우 짠디마 반떼, 우꼬위다 반떼, 우레와따 반떼께 자문을 구합니다. 그리고 나중에 우꾸마라 비왐사를 알게 되었을 때는 그분도 추가하여 자문을 구했습니다. 약간의 차이가 있을 수 있으나 그분들의 말씀은 율장의 가르침에 입각한 가르침임을 알 수 있고 합리적 판단임을 알 수 있었습니다. #담마다야다<br>
 ### 옆구리가 둘 다 막힌 내의 허용 여부
@@ -690,7 +690,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 뽑아도 된다. 안되는 건 머리에 있는 털. 하지만 그렇더라도 면도를 하는 것이 낫다. #찬다수마나<br>
 ### 특정 빅쿠를 별칭으로 부르는 것은 문제가 될까?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 모욕하려는 의도없이 빅쿠가 다른 사람에 대해 농담하면 상대가 농담 또는 모욕으로 알아듣든지 관계 없이 둡바시따(나쁜 말, 악설)를 범합니다. #담마다야다<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 추가질문:  @해피반떼 사례는 좀 헷갈립니다. 당사자(해피 반떼)가 아니고 제 삼자에게 모욕하려는 의도(한량같다고 약간 비웃는 의미이므로)로 말했다면 제삼자가 그 비웃는 의도를 알아차리면 둡빠시따인가요. 아니면 제삼자에게 이야기라면 범계가 아닌가요?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 추가질문:  ❓ 해피반떼 사례는 좀 헷갈립니다. 당사자(해피 반떼)가 아니고 제 삼자에게 모욕하려는 의도(한량같다고 약간 비웃는 의미이므로)로 말했다면 제삼자가 그 비웃는 의도를 알아차리면 둡빠시따인가요. 아니면 제삼자에게 이야기라면 범계가 아닌가요?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 다른 사람이 모욕을 느껴도 둡바사따라고 되어 있습니다. #담마다야다<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;» 배경: 어느 반떼를 우리끼리 해피반떼라고 부르고 있는데요. 자꾸 are you happy라고 물어봐서 그렇게 처음엔 불렀습니다. 그런데 하도 실없이 웃고 다니고 여러 사람 어울리고 다녀서 '저 반떼는 참 세상 해피하다'는 약간 비아냥의 의미도 있습니다. 이러면 해피반떼라고 그 사람이 없는데서 부를 때 둑까따인가요?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;모욕하려는 의도없이 빅쿠가 다른 사람에 대해 농담하면 상대가 농담 또는 모욕으로 알아듣든지 관계 없이 둡바시따(나쁜 말, 악설)를 범합니다.<br>
