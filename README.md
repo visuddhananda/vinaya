@@ -168,7 +168,7 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 
 </div>
 
-- ✨
+↠ ✨
 ### 들어가며
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 위니야 질문과 대답들을 모은 문서입니다.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 대부분의 내용들은 다음 형식으로 되어 있습니다.<br>
@@ -717,4 +717,6 @@ border-radius: 10px; background-color: #f0fff0; box-shadow: 2px 2px 8px rgba(0,0
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 시마 설치를 위한 찬다를 주는 것. 너의 스승 담마다야다도 시마를 설치하려 하고 있다. 깜마에 참석하지 않는 빅쿠들은 이렇게 찬다를 줘야 한다. #우꾸마라<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 추가질문: 그럼 우리 승원 빅쿠들만인가?<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 아니다. 승원 뿐 아니라 여기 마을 구역. 다른 승원도 포함. 거기서도 모든 빅쿠의 동의를 받아야 한다. (찬당 담미 찬당 메하라 찬당 아로제히) 우리는 그것를 깜마케따라고 부른다. 깜마 구역. 마을 구역이다. #우꾸마라<br>
-<img src="assets/IMG_20240211_190126_1756687344629_0.jpg" alt="IMG_20240211_190126.jpg" width="200">(../assets/IMG_20240211_190126_1756687344629_0.jpg) ↠ ↠-- ↠
+<img src="assets/IMG_20240211_190126_1756687344629_0.jpg" alt="IMG_20240211_190126.jpg" width="200">(../assets/IMG_20240211_190126_1756687344629_0.jpg)
+↠ ↠--
+↠
