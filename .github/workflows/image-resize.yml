@@ -16,12 +16,11 @@ jobs:
 
       - name: Install ImageMagick
         run: sudo apt-get install -y imagemagick
-
       - name: Resize Images
-        run: |
-          # 가로 600px보다 큰 이미지만 찾아서 줄임 (비율 유지)
-          find assets/ -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) -exec mogrify -resize '600x>' {} +
-
+              run: |
+            # 600을 200으로 변경.
+            # '>' 기호를 빼면 기존에 600이었던 것들도 강제로 200으로 다시 줄입니다.
+              find assets/ -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) -exec mogrify -resize '200' {} +
       - name: Commit and Push changes
         run: |
           git config --local user.email "action@github.com"
