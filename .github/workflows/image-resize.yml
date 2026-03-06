@@ -1,0 +1,31 @@
+name: Auto Image Resize
+
+on:
+  push:
+    paths:
+      - 'assets/**'  # assets 폴더에 파일이 추가될 때만 작동
+
+jobs:
+  resize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Install ImageMagick
+        run: sudo apt-get install -y imagemagick
+
+      - name: Resize Images
+        run: |
+          # 가로 600px보다 큰 이미지만 찾아서 줄임 (비율 유지)
+          find assets/ -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" \) -exec mogrify -resize '600x>' {} +
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/
+          git commit -m "chore: auto resize images to 600px" || echo "No changes to commit"
+          git push
